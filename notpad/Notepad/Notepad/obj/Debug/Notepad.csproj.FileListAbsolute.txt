@@ -1,0 +1,24 @@
+E:\VP Programs\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\VP Programs\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\VP Programs\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\VP Programs\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+E:\VP Programs\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+E:\VP Programs\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\VP Programs\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+E:\VP Programs\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\VP Programs\Notepad\Notepad\obj\Debug\Notepad.pdb
+E:\VP Programs\Notepad\Notepad\obj\Debug\Notepad.Form2.resources
+E:\VP Programs\Notepad\Notepad\obj\Debug\Notepad.Form3.resources
+E:\VP Programs\Notepad\Notepad\obj\Debug\Notepad.Form4.resources
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\bin\Debug\Notepad.exe.config
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\obj\Debug\Notepad.exe
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\obj\Debug\Notepad.pdb
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\bin\Debug\Notepad.exe
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\bin\Debug\Notepad.pdb
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\obj\Debug\Notepad.Form2.resources
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\obj\Debug\Notepad.Form3.resources
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\obj\Debug\Notepad.Form4.resources
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+F:\Studies\3rd SEMISTER\C#projects\VP Programs\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
